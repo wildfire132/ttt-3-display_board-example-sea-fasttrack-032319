@@ -5,4 +5,4 @@ display_board =
   
 end
 
-display_board
+3.times{display_board}

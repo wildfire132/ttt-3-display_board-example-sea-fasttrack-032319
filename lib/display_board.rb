@@ -7,7 +7,6 @@ def display_board
   11.times{print("-")}
   puts ""
   puts "   |   |   "
-  11.times{print("-")}
 end 
 
 display_board

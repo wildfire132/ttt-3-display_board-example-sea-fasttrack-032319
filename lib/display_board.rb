@@ -5,4 +5,4 @@ display_board =
   
 end
 
-3.times{display_board}
+3.times{puts(display_board)}

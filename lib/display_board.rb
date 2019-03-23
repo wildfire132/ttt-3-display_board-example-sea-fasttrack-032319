@@ -3,7 +3,7 @@ def display_board
   puts "   |   |   "
   11.times{puts("-")}
   puts "   |   |   "
-  11.times{puts("-")}
+  11.times{print("-")}
   puts "   |   |   "
   11.times{puts("-")}
 end 
